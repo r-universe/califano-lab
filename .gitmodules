@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MOMA"]
+	path = MOMA
+	url = https://github.com/califano-lab/moma
+	shallow = true
+	registered = true
